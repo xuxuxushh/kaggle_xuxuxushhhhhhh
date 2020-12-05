@@ -6,7 +6,7 @@ I write this program mainly in Google Colaboratory, and the language used is Pyt
 
 Following packages needed：pandas, numpy, re, datetime, wwo-hist, urllib, matplotlib, sklearn, xgboost。
 
-To get the submit file:1. Run traindarta_clean.ipynb to generate the processed train and test data file.
+To get the submit file:1. Run traindata_clean.ipynb to generate the processed train and test data file.
 2. Run model_train.ipynb steply to generate the final submit csv file.
 
 
